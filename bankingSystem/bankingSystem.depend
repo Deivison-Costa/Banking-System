@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1689776601 source:c:\users\deivison costa\onedrive - instituto federal de minas gerais\햞ea de trabalho\banking system\bankingsystem\src\bankaccount.cpp
+	"BankAccount.h"
+
+1689776719 c:\users\deivison costa\onedrive - instituto federal de minas gerais\햞ea de trabalho\banking system\bankingsystem\include\bankaccount.h
+	<string>
+	<iostream>
+	<stdexcept>
+
+1689776774 source:c:\users\deivison costa\onedrive - instituto federal de minas gerais\햞ea de trabalho\banking system\bankingsystem\src\checkingaccount.cpp
+	"CheckingAccount.h"
+
+1689776776 c:\users\deivison costa\onedrive - instituto federal de minas gerais\햞ea de trabalho\banking system\bankingsystem\include\checkingaccount.h
+	"BankAccount.h"
+
+1689777974 source:c:\users\deivison costa\onedrive - instituto federal de minas gerais\햞ea de trabalho\banking system\bankingsystem\src\bankingsystem.cpp
+	"BankingSystem.h"
+
+1689778012 c:\users\deivison costa\onedrive - instituto federal de minas gerais\햞ea de trabalho\banking system\bankingsystem\include\bankingsystem.h
+	"BankAccount.h"
+	<vector>
+
+1689776859 source:c:\users\deivison costa\onedrive - instituto federal de minas gerais\햞ea de trabalho\banking system\bankingsystem\src\savingsaccount.cpp
+	"SavingsAccount.h"
+
+1689776865 c:\users\deivison costa\onedrive - instituto federal de minas gerais\햞ea de trabalho\banking system\bankingsystem\include\savingsaccount.h
+	"BankAccount.h"
+
+1689777778 source:c:\users\deivison costa\onedrive - instituto federal de minas gerais\햞ea de trabalho\banking system\bankingsystem\main.cpp
+	"CheckingAccount.h"
+	"SavingsAccount.h"
+	"BankingSystem.h"
+
