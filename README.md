@@ -1,6 +1,8 @@
 # Banking System
 - The Banking System is a simple command-line program that allows users to create bank accounts, perform deposits and withdrawals, and check the balance of their accounts. It demonstrates basic object-oriented programming concepts in C++.
 
+![Figure_1](https://github.com/Deivison-Costa/Tasks-Manager/assets/112001225/9ca02f76-7b37-465c-9cba-834fd6660fbc)
+
 # IDE used in the implementation
 - Code::Blocks
 
